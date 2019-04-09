@@ -45,11 +45,17 @@ let fruits = ["Banana", "Orange", "Apple", "Mango"];
 let first = fruits[fruits.length-1 ];
 console.log(first);
 
-/* nr8
+// nr8 // It was Difficult . I could not solve it
 let foo = 3;
-console.log("The value of my variable foo is: " + foo); */
+console.log("The value of my variable foo is: " + foo); 
 
 // nr9
 let d = 3 ;
 d = %3 ;
 console.log(d)
+
+// nr10 // It was Difficult . I could not solve it
+let infinity= k ;
+
+console.log(6/0);
+console.log(6/0 === 10/0);
